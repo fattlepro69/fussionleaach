@@ -1,14 +1,14 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "7471107871:AAEm1lZiXkO6AoJSWEEvlW6J3FKTlmdUCtk"                              # Require restart after changing it while bot running
+OWNER_ID = "6443911092"                               # Require restart after changing it while bot running
+TELEGRAM_API = "21586454"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "081fb8dd5554a55a55e06c177db6561f"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "-4883866383"
+SUDO_USERS = "6443911092"
 DATABASE_URL = ""
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
